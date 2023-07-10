@@ -23,10 +23,3 @@
 <h2>{} My stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcodersv&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h2>Projects:</h2>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=EmojiFinder)](https://github.com/wcodersv/EmojiFinder)
-
