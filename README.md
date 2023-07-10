@@ -31,6 +31,10 @@
 </a>
 
 
-<a href="hhttps://github.com/wcodersv/EmojiFinder">
+<a href="https://github.com/wcodersv/EmojiFinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=EmojiFinder&theme=buefy" />
 </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=wcodersv&repo=EmojiFinder)](https://github.com/wcodersv/EmojiFinder)
