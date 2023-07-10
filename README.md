@@ -27,4 +27,6 @@
 
 <h2>Projects:</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=HarryPotter)](https://github.com/wcodersv/HarryPotter.git)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=HarryPotter&theme=buefy)](https://github.com/wcodersv/HarryPotter.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=EmojiFinder&theme=buefy)](https://github.com/wcodersv/EmojiFinder.git)
