@@ -8,7 +8,7 @@
 </div>
 
 <div align = "center">
-  <h1>Hi there, I'm Viktoriia 🥰</h1>
+  <h1 border-bottom = "none">Hi there, I'm Viktoriia 🥰</h1>
   <h2>I'm Junior Front End Developer</h2>
 </div>
 
