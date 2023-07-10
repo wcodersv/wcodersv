@@ -22,15 +22,6 @@
 
 <h2>{} My stats:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcodersv&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>{} My stats:</h2>
-
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-
 <a href="https://github.com/wcodersv/EmojiFinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=EmojiFinder&theme=buefy" />
 </a>
