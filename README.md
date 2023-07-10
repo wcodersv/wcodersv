@@ -22,12 +22,5 @@
 
 <h2>{} My stats:</h2>
 
-<a href="https://github.com/wcodersv/EmojiFinder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=EmojiFinder&theme=buefy" />
-</a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=wcodersv&repo=EmojiFinder)](https://github.com/wcodersv/EmojiFinder)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wcodersv&repo=EmojiFinder)](https://github.com/wcodersv/EmojiFinder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wcodersv&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+ 
