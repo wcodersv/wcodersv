@@ -12,16 +12,11 @@
 </div>
 
 <div align = "center">
-  <h1>Hi there, I'm Viktoriia 🥰 <br>I'm Junior Front End Developer</h1>
+  <h1>Hi there, I'm Viktoriia 🥰 <br>I'm Frontend developer</h1>
 </div>
 
 <h2>👩‍💻 About Me:</h2>
-
-- 💻 I learn JavaScript and TypeScript.
-  
-- 🌐 I also love traveling and exploring the world.
-  
-- 🧑‍🎓 I always study something new.
+Excellent knowledge of React, React Router, Redux Toolkit, JavaScript (ES6), Axios, HTML5, CSS3, as well as experience with Figma, and more. These skills and tools enable me to develop modern and interactive web applications using cutting-edge technologies and best practices in the field of Frontend development.
 
 
 <h2>My stats:</h2>
