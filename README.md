@@ -15,9 +15,17 @@
   <h1>Hi there, I'm Viktoriia 🥰 <br>I'm Frontend developer</h1>
 </div>
 
-<h2>👩‍💻 About Me:</h2>
-Excellent knowledge of React, React Router, Redux Toolkit, JavaScript (ES6), Axios, HTML5, CSS3, as well as experience with Figma, and more. These skills and tools enable me to develop modern and interactive web applications using cutting-edge technologies and best practices in the field of Frontend development.
+<h2>Stack:</h2>
+React.js, Next.js, TypeScript, JavaScript, React Hook Form, React Router, TanStack Query, WebSocket, Storybook, MSW(Mock Service Worker), HTML, CSS/SCSS 
 
+
+<h2>👩‍💻 General information:</h2>
+<ul>
+  <li>Experienced in developing web platforms for publishing ads and events.</li>
+  <li>Creation and integration of real-time chat functionality using WebSocket.</li>
+  <li>Implementation of responsive layout and custom components to improve UX/UI.</li>
+  <li>Interaction with a team of designers, backend developers, and QA to enhance product quality.</li>
+</ul>
 
 <h2>My stats:</h2>
 
